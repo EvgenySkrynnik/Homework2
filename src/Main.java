@@ -103,6 +103,6 @@ public class Main {
     var totalTime = employs * workingHours;
     System.out.println ("поделенное время" + totalTime);
     System.out.println ( " если в компании работает 174 человек то всего 1392 часов работы может быть поделено между сотрудниками");
-
+    System.out.println();
     }
 }
